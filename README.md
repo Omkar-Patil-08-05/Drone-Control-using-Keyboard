@@ -207,14 +207,3 @@ ros2 run drone_control controller
 * ✅ OFFBOARD MAVLink control
 * ✅ Real-time response
 
----
-
-# 📷 DEMO
-
-(Add screenshots in `screenshots/` folder)
-
----
-
-# 👨‍💻 AUTHORS
-
-Team Project
